@@ -86,7 +86,7 @@ Identification of peak risk hours and high-risk days
 
  🖼️ Dashboard Preview
 
-Here’s a glimpse of the interactive Power BI dashboard built for this project:
+Here’s a glimpse of the interactive 3 pages Power BI dashboard built for this project:
 
 <img width="1098" height="618" alt="Screenshot 2025-10-20 194255" src="https://github.com/user-attachments/assets/d2d3d767-781c-49bc-920c-20be03876087" />
 
