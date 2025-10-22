@@ -1,9 +1,5 @@
 create database traffic_accidents;
 
-select * from traffic_accidents_python;
-Describe traffic_accidents_python;
-
-
 SHOW VARIABLES LIKE 'secure_file_priv';
 
     
