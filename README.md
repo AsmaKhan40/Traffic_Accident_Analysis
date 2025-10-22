@@ -34,11 +34,17 @@ Power BI → Interactive dashboard visualization
 🗂️ Project Workflow
 
 🧹 Data Cleaning (Python):-
+
 Loaded raw dataset using Pandas
+
 Handled missing and inconsistent data
+
 Added necesarry columns
+
 Standardized column names and data formats
+
 Exported the cleaned dataset as a .csv file for SQL analysis
+
 
 
 🧮 Exploratory Data Analysis (SQL)
