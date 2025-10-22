@@ -52,9 +52,7 @@ Exported the cleaned dataset as a .csv file for SQL analysis
 Performed SQL queries to uncover insights, such as:
 
 Total accidents per year/month
-
 Accidents by day of week and hour of day
-
 Injury type distribution
 
 Top causes of accidents
