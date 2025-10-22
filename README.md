@@ -48,7 +48,12 @@ Peak risk hours and dangerous days
 📊 Key Insights
 
 Most accidents occurred during peak traffic hours (Evening time - 05:00 pm have the highest no. of accidents).
+
 Turning points and Undivided roads have the highest no. of accidents indicating to take necessary actions .
+
 Dry roads accounted for majority of accidents, indicating driver behavior as a key factor.
+
 Weather and surface conditions influenced severity and frequency of crashes.
+
+
 
