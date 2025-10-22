@@ -4,7 +4,6 @@ select * from traffic_accidents_python;
 Describe traffic_accidents_python;
 
 
-TRUNCATE TABLE traffic_accidents_python;
 SHOW VARIABLES LIKE 'secure_file_priv';
 
     
@@ -14,6 +13,10 @@ FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+
+select * from traffic_accidents_python;
+Describe traffic_accidents_python;
+
 
 # How many accidents occurred per year/month/day?
 select Year,count(crash_date) AS "No.of Accidents" from traffic_accidents_python
