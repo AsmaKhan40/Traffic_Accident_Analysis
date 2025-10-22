@@ -9,7 +9,9 @@ It integrates Python, SQL, and Power BI to clean, analyze, and visualize acciden
 🧰 Tools & Technologies
 
 Python → Data cleaning & preprocessing
+
 SQL (MySQL) → Exploratory data analysis (EDA)
+
 Power BI → Interactive dashboard visualization
 
 
