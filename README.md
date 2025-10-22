@@ -111,3 +111,8 @@ Improve drainage and road maintenance to reduce wet-surface accidents.
 
 Use these insights for policy formulation and urban traffic planning.
 
+📜 License
+
+This project is open-source. Contributions are welcome!
+
+⭐ If you found this useful, don’t forget to star this repo! ⭐
