@@ -1,6 +1,6 @@
-# Traffic Accident Analysis Project
+# Traffic Accidents Analysis Project
 
-🚦 Traffic Accident Analysis Project
+🚦 Traffic Accidents Analysis Project
 
 📌 Overview
 This project is an end-to-end data analytics solution aimed at understanding traffic accident patterns and identifying key factors contributing to road accidents.
