@@ -20,11 +20,15 @@ Power BI → Interactive dashboard visualization
 🗂️ Dataset Overview:-
 
 • Name: Traffic Accidents Dataset
+
 • Size: 2,09,307 rows
+
 • Features: 24 columns
+
 • Purpose: Used for analysis of accident patterns and trends
 
-<img width="1012" height="216" alt="image" src="https://github.com/user-attachments/assets/54fe6e5b-b43a-45f5-badc-2056d128f424" />
+
+
 
 
 🗂️ Project Workflow
