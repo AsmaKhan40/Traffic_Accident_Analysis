@@ -17,44 +17,87 @@ SQL (MySQL) → Exploratory data analysis (EDA)
 Power BI → Interactive dashboard visualization
 
 
+🗂️ Dataset Overview:-
+
+• Name: Traffic Accidents Dataset
+• Size: 2,09,307 rows
+• Features: 24 columns
+• Purpose: Used for analysis of accident patterns and trends
+
+<img width="1012" height="216" alt="image" src="https://github.com/user-attachments/assets/54fe6e5b-b43a-45f5-badc-2056d128f424" />
+
+
 🗂️ Project Workflow
 
-Data Cleaning (Python):-
-
+🧹 Data Cleaning (Python):-
+Loaded raw dataset using Pandas
 Handled missing and inconsistent data
 Added necesarry columns
 Standardized column names and data formats
-
-Exploratory Data Analysis (SQL):-
-
-Imported cleaned data into MySQL
-Wrote SQL queries to explore key insights, such as:
-Accidents by year and month
-Injury type distribution
-Top causes and crash types
-Accidents by weather and roadway conditions
+Exported the cleaned dataset as a .csv file for SQL analysis
 
 
-Visualization (Power BI):-
+🧮 Exploratory Data Analysis (SQL)
 
-Built an interactive dashboard with the following visuals:
-Accidents over time (trend by year/month)
+Performed SQL queries to uncover insights, such as:
+
+Total accidents per year/month
+
 Accidents by day of week and hour of day
-Breakdown of accidents by injury type
-Weather and surface condition analysis
-Top causes and crash types
-Peak risk hours and dangerous days
+
+Injury type distribution
+
+Top causes of accidents
+
+Roadway and surface condition analysis
+
+Weather impact on accident frequency
 
 
-📊 Key Insights
 
-Most accidents occurred during peak traffic hours (Evening time - 05:00 pm have the highest no. of accidents).
+
+
+📊 Visualization (Power BI)
+
+Built an interactive dashboard with insights such as:
+
+Accident trends by year & month
+
+Accidents by day of week & hour of day
+
+Breakdown by injury type
+
+Accidents under different weather and surface conditions
+
+Top causes and first crash types
+
+Identification of peak risk hours and high-risk days
+
+📈 Key Insights
+
+Peak accident times occur during morning (7–9 AM) and evening (5–8 PM) rush hours.
 
 Turning points and Undivided roads have the highest no. of accidents indicating to take necessary actions .
 
 Dry roads accounted for majority of accidents, indicating driver behavior as a key factor.
 
+Rainy and wet conditions showed a higher ratio of severe injuries.
+
 Weather and surface conditions influenced severity and frequency of crashes.
 
+✅ Actionable Recommendations
 
+Based on the analysis:
+
+Implement speed control measures (e.g., speed cameras) during peak hours.
+
+Enhance road lighting and signage on accident-prone roadways.
+
+Public awareness campaigns focusing on distracted and drunk driving.
+
+Deploy more traffic enforcement units on weekends and peak hours.
+
+Improve drainage and road maintenance to reduce wet-surface accidents.
+
+Use these insights for policy formulation and urban traffic planning.
 
