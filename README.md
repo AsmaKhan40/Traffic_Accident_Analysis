@@ -69,7 +69,7 @@ Weather impact on accident frequency
 
 📊 Visualization (Power BI)
 
-Built an interactive dashboard with insights such as:
+Built an interactive 3 pages dashboard with insights such as:
 
 Accident trends by year & month
 
